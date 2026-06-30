@@ -1,0 +1,5 @@
+//Q117).WRITE A PROGRAM TO CREATE STUDENT RECORD SYSTEM USING ARRAYS AND STRINGS.
+#include<stdio.h>
+int main(){
+    
+    return 0;

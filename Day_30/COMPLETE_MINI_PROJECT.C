@@ -1,0 +1,5 @@
+//Q120).WRITE A PROGRAM TO DEVELOP COMPLETE MINI PROJECT USING ARRAYS, STRINGS AND FUNCTIONS.
+#include<stdio.h>
+int main(){
+    
+    return 0;
